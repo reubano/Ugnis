@@ -4,7 +4,7 @@ Ugnis is a Design tool that exports directly to code. Creating your own Design S
 
 Exports to React components. Vote for more integrations [in this issue](https://github.com/UgnisSoftware/ugnis/issues/1)
 
-## Demo
+## Demos
 
 ### [ugnis.com](https://ugnis.com)
 
